@@ -6,3 +6,5 @@ https://amdlaboratory.com/amdblog/processing4-3%E3%82%92vscode%E3%81%A7%E6%9B%B8
 「Processing Formatter」
 をVScodeに入れる
 ・PM_MovieTimer.pdeを選択してcmand+sift+Bを押して実行
+
+ありがとうございます
